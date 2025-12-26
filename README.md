@@ -1,4 +1,4 @@
-# School 42 Exam Simulator: Rank 02
+# School 42 Exam Simulator: 2025 Update
 This interactive coding challenge spans across four levels of increasing difficulty. In every level, a question, randomly selected from a curated pool. 
 
 As you ascend from one level to the next, you'll get a programming problem that tests your understanding of C programming. With each click of the `Next Level` button, you aren't merely moving to a new level, but also stepping into a new realm of complexity and learning.
